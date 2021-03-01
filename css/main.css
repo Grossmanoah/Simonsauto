@@ -116,17 +116,16 @@ body {
   }
   
   .home-intro {
-    background: rgb(255, 255, 255) 
+    background: rgb(255, 255, 255) url(https://hosting.photobucket.com/images/i/Noahsarchive/pexels-cottonbro-4488656.jpg);
     background-size: cover;
-    width: 100%;
-    height: auto;
+    max-width: 100%;
     background-blend-mode: normal;
     background-repeat: no-repeat;
     color: white;
     text-align: center;
-    position: relative;
     font-size: 90pt;
-  
+    width: auto;
+    height: auto;
   
   }
   
